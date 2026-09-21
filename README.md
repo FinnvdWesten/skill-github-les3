@@ -1,2 +1,2 @@
-# skill-github-les3
-github les 3 opdracht
+##Mijn aanpassingen
+- README bijgewerkt op 21-9-2026
